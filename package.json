@@ -1,5 +1,5 @@
 {
-  "name": "eth-gas-reporter",
+  "name": "@rolla-finance/eth-gas-reporter",
   "version": "0.2.22",
   "description": "Mocha reporter which shows gas used per unit test.",
   "main": "index.js",
